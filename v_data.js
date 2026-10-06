@@ -705,5 +705,41 @@ export const vivaData = [
         "subject": "finance",
         "date": "2026-10-04",
         "questions": "Viva Experience :\nDate : 04/10/26\nSubject : finance\nBoard : Bashar sir\n1.Name & University\n2.Career aim\n3.what is tax?\n4.Types of tax?\n5.Vat related question?\n6.How it is done?\n7.Financial tools for selecting investment?\n8.What is Npv?\n9.Non cash Expenditure?\n10. Main functions of Commercial bank?\n\nNB: Board was friendly...\nAll the questions were asked by other board Members... Board chairman only observed my movement.."
+    },
+    {
+        "id": 102,
+        "board": "Habibur Rahman Sir",
+        "subject": "Sociology",
+        "date": "2026-10-02",
+        "questions": "OG Viva (25102)\nDate: 02.10.2026\nSlot: 3.30\nBoard: Habibur Rahman Sir\nSubject: Sociology\n\n১) নাম, বাড়ি, পড়াশোনা, বিষয়।\n২) প্রথম পছন্দ কোন ব্যাংক?\nমোট শাখা কয়টি?\n৩) সোনালী ব্যাংক এর MD-র নাম কি?\n৪) বাংলাদেশ ব্যাংক সম্প্রতি নতুন একটা নির্দেশনা দিছে জানেন? সেখানে কি বলা হইছে?\n৪) বর্তমানে মুদ্রাস্ফীতি কত?\n৫) মুদ্রাস্ফীতি কিভাবে পরিমাপ করা হয়?\n৬) CPI এর ফুল ফর্ম বলেন। সেটাকে বাংলা করেন।"
+    },
+    {
+        "id": 103,
+        "board": "জাকির স্যারের বোর্ড",
+        "subject": "অর্থনীতি",
+        "date": "2026-10-05",
+        "questions": "ভাইবা অভিজ্ঞতা:\n০৫.১০.২০২৬ (সকাল ১০ টা)\nজাকির স্যারের বোর্ড\nসাবজেক্ট: অর্থনীতি\n\n1. নাম?\n2. বাড়ি?\n3. পড়াশোনা কোথায়?\n4. আপনার রোল?\n5. আপনার রোলে যে ডিজিটগুলো আছে সেগুলোকে মাল্টিপ্লাই করলে কত হয়?\n6. ব্রেক-ইভেন কী?\n7. অর্থমন্ত্রীর নাম কী?\n8. চট্টগ্রামে ওনার বাড়ি কোথায়?\n9. আপনার কাছে ১০০৳ আছে যা আপনার দুই বন্ধুকে এমনভাবে ভাগ করে দিলেন যাতে একজন অপরজনের চাইতে ৫ টাকা বেশি পেল। কে কত পেল?"
+    },
+    {
+        "id": 104,
+        "board": "Board 01",
+        "subject": "Peace and Conflict Studies and MBA in Finance",
+        "date": "2026-10-05",
+        "questions": "05/10/2026\nBoard 01\nSubj: Peace and Conflict Studies and MBA in Finance\n\n1. অনার্সের Department রিলেটেড কিছু প্রশ্ন (প্রতিষ্ঠাতা চেয়ারম্যান, বর্তমান চেয়ারম্যান, সাব্জেক্টের সুযোগ কতটা)\n2. MBA কেন করেছি।\n3. What is NBFI and Bank?\n4. Tell me core differences between them at least 3.\n5. Can an NBFI receive a cheque-able Deposite?\n6. NBFI খুলতে পারে না এমন একটা হিসাব/একাউন্ট এর নাম বলেন।\n7. নতুন Financial Ins. পলিসিতে কি পরিবর্তন হয়েছে?\n7. ম্যাথ কয়টা হয়েছে?\n8. ২৫ এর ২০% কত?\n9. ২০ এর ২৫% কত?\n10. টাকায় ৪টা কিনে ২টা করে বিক্রি করলে লাভ কত পার্সেন্ট?\n\nধন্যবাদ।"
+    },
+    {
+        "id": 105,
+        "board": "Board 1",
+        "subject": "Zoology, HRM",
+        "date": "2026-10-05",
+        "questions": "5/10/26\nBoard 1\nSubject: Zoology, HRM\n\n১. জেব্রা ক্রসিং কি\n২. সাফারি পার্ক ও জু কি, পার্থক্য কি\n৩. HRM-এর অন্য কি নাম আছে।\n৪. X Y Theory কি, Z Theory কোন দেশে এপ্লাই করেছে\n৫. বাংলাদেশ ব্যাংক কি?\n৬. বাংলাদেশের আশপাশের দেশগুলোর কেন্দ্রীয় ব্যাংকের নাম কি\n৭. বি এল ও বি এম কলেজ প্রতিষ্ঠাতা কি এক?\n৮. ম্যাথ কয়টা\n৮. ইয়ার গ্যাপ আছে কিনা\n৯. বর্তমানে চাকরিরত কিনা"
+    },
+    {
+        "id": 106,
+        "board": "বসার স্যার",
+        "subject": "টেক্সটাইল",
+        "date": "2026-10-05",
+        "questions": "ভাইভা অভিজ্ঞতা\n05/10/2026\nস্লট 10.00টা (বসার স্যার)\nডিপার্টমেন্ট: টেক্সটাইল\nনাম, রোল, বিশ্ববিদ্যালয়ের নাম।\n\n1. টেক্সটাইল খাতে বর্তমান পরিস্থিতি কি? কেন?\n2. ব্যাংক খাতেও এরকম কি সমস্যা?\n3. টেক্সটাইল খাতে ব্যাংকের ভূমিকা কি?\n4. LC কি? কিভাবে কাজ করে?\n   Back to Back LC\n6. ব্যাংকসমূহের নাম\n7. কেন্দ্রীয় ও বাণিজ্যিক ব্যাংকের কার্যপদ্ধতি।\n8. সুদের পার্থক্য\n7. 1/4 থেকে 1/2 কত পার্সেন্ট বড়\n8. 20 এর 25% অপেক্ষা 25 এর 20% কত বড়"
     }
+
 ];
