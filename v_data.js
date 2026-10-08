@@ -789,7 +789,16 @@ export const vivaData = [
         "subject": "উল্লেখ নেই",
         "date": "2026-10-07",
         "questions": "Board: Pine sir (Executive Director)\nDate: 7 Oct 26\n\n1. Ki nam? Basha kothai?\n2. Strong and weak dik\n3. Leader er ki gun thaka dorkar?\n4. Leader vs Manager?\n5. Engineer theke bank.. Rastri ki harasse?\n6. 100 takar 20% er upor 10% discount hole lav/khoti koto?\n7. Pentagon er total angle??\n8. Pentagon kon jaigar nam??"
+    },
+    {
+        "id": 114,
+        "board": "হাবিবুর রহমান স্যারের বোর্ড (সিরিয়াল ৪)",
+        "subject": "উল্লেখ নেই",
+        "date": "2026-10-07",
+        "questions": "০৭.১০.২০২৬\nহাবিবুর রহমান স্যারের বোর্ড (সিরিয়াল ৪)\n\n১. তোমার নাম কি?\n২. কোন বিশ্ববিদ্যালয়ে পড়াশোনা করেছো?\n৩. কোন ব্যাংক প্রথম চয়েস? কেন?\n৪. সম্মিলিত ইসলামি ব্যাংক সম্বন্ধে বলুন?\n৫. এটার মালিক কে?\n২. সরকার কি টাকা দিয়েছে এ ব্যাংকে এবং কত?\n৩. মালোশিয়ার কেন্দ্রীয় ব্যাংক নাম কি?\n৪. ভুটানের কেন্দ্রীয় ব্যাংকের নাম কি?\n৫. এর পর চীনের কেন্দ্রীয় ব্যাংকের নাম কি?\n৬. সার্কভুক্ত সবগুলো দেশের কেন্দ্রীয় ব্যাংকের নাম কি?\n৭. pksb না কি যেন একটা বললো মনে নাই\n৮. সোনালি ব্যাংকের এমডির নাম কি?"
     }
+
+
 
 
 
